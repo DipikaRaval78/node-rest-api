@@ -1,3 +1,3 @@
-# node-api-quote
+# node-rest-api
 
 display quotes
